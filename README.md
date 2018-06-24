@@ -1,2 +1,7 @@
 # ML_PATHS
-It starts with one ........ project
+
+Projects to work on currently
+
+1. Spam Filter
+2. Recommendation system
+3. ChatBot
