@@ -1,7 +1,4 @@
 # ML_PATHS
-
-Projects to work on currently
-
-1. Spam Filter
-2. Recommendation system
-3. ChatBot
+1. Linear Regression
+    a. Basic gradient descent
+    b. Gradient descent using Matrix
